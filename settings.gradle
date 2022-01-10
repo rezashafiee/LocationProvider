@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "LocationProvider"
 include ':app'
+include ':location'
